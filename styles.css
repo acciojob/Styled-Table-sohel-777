@@ -1,1 +1,19 @@
 /* your code */
+table{
+	width: 100%;
+	height: 150px;
+	text-align: left;
+	
+	border-radius: 15px;
+}
+tbody{
+	text-align: left;
+	border: 1px solid black;
+}
+.head{
+	background:blue;
+	color:white;
+}
+#body2, #body4{
+	background:grey;
+}
